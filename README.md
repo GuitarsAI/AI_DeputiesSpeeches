@@ -23,20 +23,24 @@ For the requirements for this project to run, please check the following files a
 # Data Collection:
 <ul>
 <li>Webscraping: Selenium Pyton - <a href="https://selenium-python.readthedocs.io/" target="_blank">https://selenium-python.readthedocs.io/
-/a><\li>
+/a></li>
 <li>Official Website - Camara dos Deputados: <a href="https://www.camara.leg.br/internet/sitaqweb/pesquisaDiscursos.asp " target="_blank">https://www.camara.leg.br/internet/sitaqweb/pesquisaDiscursos.asp 
-/a><br><\li>
+/a></li>
 <li>Deputado Miro Teixeira: <a href="https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=miro+teixeira&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar" target="_blank">https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=miro+teixeira&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar 
-/a><br><\li>
-<li>Deputado Jair Bolsonaro: https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=jair+bolsonaro&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar <br>
-<li>Deputado Simão Sessim: https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=sim%C3%A3o+sessim&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar <br>
-<\ul><\li>
+/a></li>
+<li>Deputado Jair Bolsonaro: <a href="https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=jair+bolsonaro&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar " target="_blank">https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=jair+bolsonaro&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar 
+/a></li>
+<li>Deputado Simão Sessim: <a href="https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=sim%C3%A3o+sessim&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar" target="_blank">https://www.camara.leg.br/internet/sitaqweb/resultadoPesquisaDiscursos.asp?txOrador=sim%C3%A3o+sessim&txPartido=&txUF=&dtInicio=&dtFim=&txTexto=&txSumario=&basePesq=plenario&CampoOrdenacao=dtSessao&PageSize=50&TipoOrdenacao=DESC&btnPesq=Pesquisar
+/a> </li>
+</ul>
 
 # Pre-Processing
-Natural Language Toolkit: https://www.nltk.org/ <br>
+Natural Language Toolkit: <a href="https://www.nltk.org/" target="_blank">https://www.nltk.org/
+/a><br>
 
 # Analysis Methods
-Gensim word2vec: https://radimrehurek.com/gensim/models/word2vec.html <br> 
+Gensim word2vec: <a href="https://radimrehurek.com/gensim/models/word2vec.html" target="_blank">https://radimrehurek.com/gensim/models/word2vec.html 
+/a><br> 
 
 # Model Parameters
 Word Vectors Dimensionality: 500 <br>
@@ -44,12 +48,14 @@ Minimum Word Count Threshold: 10 <br>
 Context Window Length: 25 <br>
 
 # Visualization Tool
-Google Tensorboard: https://www.tensorflow.org/guide/summaries_and_tensorboard <br>
+Google Tensorboard: <a href="https://www.tensorflow.org/guide/summaries_and_tensorboard" target="_blank">https://www.tensorflow.org/guide/summaries_and_tensorboard
+/a> <br>
 
 # MyBinder
 
 Launch Binder to Interact with this notebook in a live environment in the cloud:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master)
+a href="https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master" target="_blank"><img src=https://mybinder.org/badge.svg /img>
+/a>
 
 # Guitars.AI
 
@@ -58,6 +64,3 @@ Launch Binder to Interact with this notebook in a live environment in the cloud:
 </p>
 <br>
 
-[www.rptecnologias.com](http://www.rptecnologias.com)
-<br>
-guitars.ai@rptecnologias.com
