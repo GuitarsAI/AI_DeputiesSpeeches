@@ -1,16 +1,18 @@
 # Speech Analysis of Deputies from the Chamber of Deputies (Brazil) using Artificial Inteligence: Word Embeddings, word2vec
 
 **Renato Profeta**, Guitars.AI, Technische Universität Ilmenau <br>
-Homepage: [http://www.rptecnologias.com/](http://www.rptecnologias.com/) <br>
-Instagram: https://www.instagram.com/guitars.ai/ <br>
-Twitter: https://twitter.com/guitars_ai <br>
-Facebook: https://www.facebook.com/GuitarsAI/ <br>
-Linkedin: https://www.linkedin.com/in/renato-profeta-6b678831/ <br>
-Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
+Homepage: <a href="http://www.rptecnologias.com/" target="_blank">http://www.rptecnologias.com/</a> <br>
+Instagram: <a href="https://www.instagram.com/guitars.ai/" target="_blank">https://www.instagram.com/guitars.ai/</a> <br>  
+Twitter: <a href="https://twitter.com/guitars_ai" target="_blank">https://twitter.com/guitars_ai</a> <br>  
+Facebook: <a href="https://www.facebook.com/GuitarsAI/" target="_blank">https://www.facebook.com/GuitarsAI/</a> <br>   
+Linkedin: <a href="https://www.linkedin.com/in/renato-profeta-6b678831/" target="_blank">https://www.linkedin.com/in/renato-profeta-6b678831/</a> <br> 
+Youtube: <a href="https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ" target="_blank">https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ</a> <br>
 
 # Youtube Video
 
-https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
+<a href="https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
+" target="_blank">https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
+/a> <br>
 
 # Requirements:
 For the requirements for this project to run, please check the following files at the 'binder' folder:
