@@ -54,7 +54,7 @@ Google Tensorboard: <a href="https://www.tensorflow.org/guide/summaries_and_tens
 # MyBinder
 
 Launch Binder to Interact with this notebook in a live environment in the cloud:
-a href="https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master" target="_blank"><img src=https://mybinder.org/badge.svg /img>
+<a href="https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master" target="_blank"><img src="https://mybinder.org/badge.svg">
 </a>
 
 # Guitars.AI
