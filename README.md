@@ -9,8 +9,8 @@ Linkedin: <a href="https://www.linkedin.com/in/renato-profeta-6b678831/" target=
 Youtube: <a href="https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ" target="_blank">https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ</a><br>
 
 ## Instructions
-To correctly launch the Visualization Tool I recommend to watch the instructional videos available at Youtube. Link below. <br>
-Para iniciar a Ferramenta de Visualização corretamente é recomendável assistir aos videos de instrução disponíveis no Youtube. Link abaixo.<br>
+To correctly launch the the application with mybinder I recommend to watch the instructional videos available at Youtube. Link below. <br>
+Para iniciar o aplicativo utilizando mybinder corretamente é recomendável assistir aos videos de instrução disponíveis no Youtube. Link abaixo.<br>
 
 ## Youtube Playlist
 
