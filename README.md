@@ -8,11 +8,21 @@ Facebook: <a href="https://www.facebook.com/GuitarsAI/" target="_blank">https://
 Linkedin: <a href="https://www.linkedin.com/in/renato-profeta-6b678831/" target="_blank">https://www.linkedin.com/in/renato-profeta-6b678831/</a><br>
 Youtube: <a href="https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ" target="_blank">https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ</a><br>
 
+## Instructions
+To correctly launch the Visualization Tool I recommend to watch the instructional videos available at Youtube. Link below. <br>
+Para iniciar a Ferramenta de Visualização corretamente é recomendável assistir aos videos de instrução disponíveis no Youtube. Link abaixo.<br>
+
 ## Youtube Playlist
 
 <a href="https://www.youtube.com/playlist?list=PL6QnpHKwdPYjrh1LzZSa8Lo8U36h5_uTl
 " target="_blank">https://www.youtube.com/playlist?list=PL6QnpHKwdPYjrh1LzZSa8Lo8U36h5_uTl
 </a><br>
+
+## MyBinder
+
+Launch Binder to Interact with this notebook in a live environment in the cloud:
+<a href="https://mybinder.org/v2/gh/GuitarsAI/AI_DeputiesSpeeches/master?filepath=AI_SpeechesDeputies.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg">
+</a>
 
 ## Requirements:
 For the requirements for this project to run, please check the following files at the 'binder' folder:
@@ -57,12 +67,6 @@ Context Window Length: 25 <br>
 ## Visualization Tool
 Google's Tensorboard: <a href="https://www.tensorflow.org/guide/summaries_and_tensorboard" target="_blank">https://www.tensorflow.org/guide/summaries_and_tensorboard
 </a> <br>
-
-## MyBinder
-
-Launch Binder to Interact with this notebook in a live environment in the cloud:
-<a href="https://mybinder.org/v2/gh/GuitarsAI/AI_DeputiesSpeeches/master?filepath=AI_SpeechesDeputies.ipynb" target="_blank"><img src="https://mybinder.org/badge.svg">
-</a>
 
 ## Guitars.AI
 
