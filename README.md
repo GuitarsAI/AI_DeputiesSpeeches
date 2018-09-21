@@ -8,10 +8,10 @@ Facebook: <a href="https://www.facebook.com/GuitarsAI/" target="_blank">https://
 Linkedin: <a href="https://www.linkedin.com/in/renato-profeta-6b678831/" target="_blank">https://www.linkedin.com/in/renato-profeta-6b678831/</a><br>
 Youtube: <a href="https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ" target="_blank">https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ</a><br>
 
-## Youtube Video
+## Youtube Playlist
 
-<a href="https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
-" target="_blank">https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
+<a href="https://www.youtube.com/playlist?list=PL6QnpHKwdPYjrh1LzZSa8Lo8U36h5_uTl
+" target="_blank">https://www.youtube.com/playlist?list=PL6QnpHKwdPYjrh1LzZSa8Lo8U36h5_uTl
 </a><br>
 
 ## Requirements:
