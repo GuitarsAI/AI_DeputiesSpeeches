@@ -1,4 +1,4 @@
-# Visualization of the Analysis of Deputies' Speeches from the Chamber of Deputies (Brazil) using Artificial Inteligence: Word Embeddings, word2vec
+# Visualization of the Analysis of Deputies' Speeches from the Chamber of Deputies (Brazil) using Artificial Intelligence: Word Embeddings, word2vec
 
 **Renato Profeta**, Guitars.AI, Technische Universität Ilmenau <br>
 Homepage: <a href="http://www.rptecnologias.com/" target="_blank">http://www.rptecnologias.com/</a><br>
