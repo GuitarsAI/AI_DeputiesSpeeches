@@ -32,7 +32,7 @@ For the requirements for this project to run, please check the following files a
   
 ## Data Collection:
 <ul>
-<li>Webscraping: Selenium Pyton - <a href="https://selenium-python.readthedocs.io/" target="_blank">https://selenium-python.readthedocs.io/
+<li>Webscraping: Selenium Python - <a href="https://selenium-python.readthedocs.io/" target="_blank">https://selenium-python.readthedocs.io/
 </a></li>
 <li>Camara dos Deputados Website: <a href="https://www.camara.leg.br/internet/sitaqweb/pesquisaDiscursos.asp " target="_blank">https://www.camara.leg.br/internet/sitaqweb/pesquisaDiscursos.asp 
 </a>
